@@ -6,4 +6,4 @@
 
 ## chat
 
-<img src="./images/testconvo.png" />
+<img src="./images/testchat.png" />
